@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-Print('Hello, world')
-=======
-# This program prints Hello, world!
-
-print('Hello, world!')
->>>>>>> ce2f7d4cf513d01a83fe79d4252ee7076fc39238
